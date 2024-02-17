@@ -4,4 +4,4 @@ Criei uma query para o PostgreSQL que contém os códigos DDI de todos os paíse
 
 1° -> A Tabela é bem Simples, Mas contêm todos os dados de DDI de todos os paises!.
 
-2° -> Se tiver alguma sugestao Favor entrar em contato: dalmir.webdesigner@hotmail.com.
+2° -> Se tiver alguma sugestão favor entrar em contato: dalmir.webdesigner@hotmail.com.
